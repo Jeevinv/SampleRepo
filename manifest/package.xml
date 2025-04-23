@@ -28,7 +28,7 @@
         <members>*</members>
         <name>LightningComponentBundle</name>
     </types>
-    <!--<types>
+    <!--test<types>
         <members>*</members>
         <name>StaticResource</name>
     </types>-->
